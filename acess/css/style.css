@@ -1,0 +1,46 @@
+/* Estilo index*/
+.center {
+    text-align: center;
+}
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu li {
+    display: inline;
+    padding: 2rem;
+
+}
+.menu li a {
+    text-decoration: none;
+    color: black;
+    font-size: 2rem;
+}
+.menu li a:hover{
+    color: gray;
+}
+
+.p1 {
+    padding: 1rem;
+}
+.img{
+    border-radius: 15%;
+    width: 25rem;
+    height: 25rem;
+}
+
+.tam{
+    width: 10rem;
+    height: 10rem;
+}
+
+.justify{
+    text-align: justify;
+}
+
+.ml50{
+    margin-left: 5rem;
+}
